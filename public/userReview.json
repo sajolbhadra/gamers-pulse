@@ -2,31 +2,37 @@
     {
         "_id": 1,
         "name": "Sajol",
-        "rating": 5
+        "rating": 5,
+        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
     },
     {
         "_id": 2,
         "name": "Sujon",
-        "rating": 4.8
+        "rating": 4.8,
+        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
     },
     {
         "_id": 3,
         "name": "Shadin",
-        "rating": 5
+        "rating": 5,
+        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
     },
     {
         "_id": 4,
         "name": "Sakib Khan",
-        "rating": 5
+        "rating": 5,
+        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
     },
     {
         "_id": 5,
         "name": "Puja",
-        "rating": 3
+        "rating": 3,
+        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
     },
     {
         "_id": 6,
         "name": "Porimoni",
-        "rating": 5
+        "rating": 5,
+        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
     }
 ]

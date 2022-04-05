@@ -4,6 +4,7 @@
     align-items: center;
     background-color: #321fdb;
     flex-wrap: wrap;
+    min-height: 80px;
     
 }
 .nav div{

@@ -1,0 +1,7 @@
+.review-container{
+    padding-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: 10px ;
+    gap: 10px;
+}
