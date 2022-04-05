@@ -15,9 +15,9 @@ const Home = () => {
                 <Col className='p-5' >
                     <h1 className='font-weight-bold text-uppercase color-warning text-primary'>BattleField</h1>
                     <h1>2042</h1>
-                    <p>Battlefield™ 2042 marks the return to the iconic all-out warfare of the franchise. Squad up and bring a cutting-edge arsenal into massive-scale battlegrounds, set in a near-future world transformed by disorder. Battlefield™ 2042 marks the return to the iconic all-out warfare of the franchise. Squad up and bring a cutting-edge arsenal into massive-scale battlegrounds, set in a near-future world transformed by disorder.</p>
+                    <p>Battlefield™ 2042 marks the return to the iconic all-out warfare of the franchise. Squad up and bring a cutting-edge arsenal into massive-scale battlegrounds, set in a near-future world transformed by disorder. </p>
 
-                    <Link to="/dashboard"><button className='btn btn-primary px-5 py-2'>More</button></Link>
+                    <Link to="/dashboard"><button className='btn btn-primary px-5 py-2'>Analysis</button></Link>
                 </Col>
 
                 <Col className=''>

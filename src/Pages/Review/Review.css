@@ -1,7 +1,7 @@
 .review{
     display: flex;
     flex-direction: column;
-    width: 310px;
+    width: auto;
     align-items: center;
     justify-content: center;
     border:  2px solid #e6e6e6;
@@ -17,21 +17,4 @@
 }
 .review-info{
     margin: 10px;
-}
-.more-btn{
-    background-color: #321fdb;
-    color: white;
-    width: 100%;
-    border: 0;
-    height: 2rem;
-    border-radius: 0 0 20px 20px;
-    position: absolute;
-    bottom: 0;   
-}
-.more-btn {
-    padding-right: 10px;
-}
-.more-btn:hover{
-    color: aliceblue;
-    background-color: deeppink;
 }
