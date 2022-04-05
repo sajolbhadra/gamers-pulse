@@ -8,7 +8,6 @@ import './Home.css'
 
 const Home = () => {
     const [review, setReview] = useReviews();
-    console.log(review.length)
     return (
         <div>
 
@@ -29,8 +28,8 @@ const Home = () => {
 
 
             <div className='review-container  '>
-                {review.slice(3).map(review => <Review
-                    key="_id"
+                {review.slice(0,3).map(review => <Review
+                    key={review._id}
                     review={review}
                 ></Review>)}
             </div>

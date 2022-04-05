@@ -4,7 +4,7 @@ import './Navigation.css'
 
 const Navigation = () => {
     return (
-        <nav className='nav'>
+        <nav className='nav '>
             <div>
                 <p> Gamers-Pulse  </p>
             </div>

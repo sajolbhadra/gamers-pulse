@@ -1,38 +1,44 @@
 [
     {
         "_id": 1,
-        "name": "Sajol",
+        "name": "Prabhas",
         "rating": 5,
-        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
+        "img": "https://www.telugu360.com/wp-content/uploads/2022/03/Prabhas-1200x800.jpg",
+        "review": "The Gameplay was Fantastic"
     },
     {
         "_id": 2,
-        "name": "Sujon",
+        "name": "Hritik",
         "rating": 4.8,
-        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
+        "img": "https://www.bollywoodhungama.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-22-at-9.12.41-PM.jpeg",
+        "review": "I Love that"
     },
     {
         "_id": 3,
-        "name": "Shadin",
+        "name": "Tiger",
         "rating": 5,
-        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrUa2XZv75T1F4nupdn5uTW0b4cEj409woG3PyICQerFkg77v5",
+        "review": "The Gameplay was Fantastic"
     },
     {
         "_id": 4,
         "name": "Sakib Khan",
         "rating": 5,
-        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
+        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900",
+        "review": "Amazing"
     },
     {
         "_id": 5,
         "name": "Puja",
-        "rating": 3,
-        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
+        "rating": 5,
+        "img": "https://muchfeed.com/wp-content/uploads/2018/04/Puja-Cherry-2.jpg",
+        "review": "I love this version but Prvious Version was much better"
     },
     {
         "_id": 6,
         "name": "Porimoni",
         "rating": 5,
-        "img": "https://pbs.twimg.com/media/Ev29wROVEAAyNqi?format=jpg&name=900x900"
+        "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/08/10/78c55387283c9019b1821e8f682c9b9d_original.jpg?impolicy=abp_images&imwidth=720",
+        "review": "Minblowing Game, Full rating"
     }
 ]
