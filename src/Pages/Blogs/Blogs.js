@@ -19,9 +19,9 @@ const Blogs = () => {
             </div>
             <div>
                 <h3>Symantic Tag</h3>
-                <div>
-                    
-                </div>
+                <p>
+                    Semantic is a feature of HTML5. Semantic describe their meaning in humarn and machine readable way. To work with html in more specific way semantic tags are good for Developer. And also it is browser supported.
+                </p>
             </div>
             <div>
                 <h3>Inline, Block and Inline-Block Element</h3>

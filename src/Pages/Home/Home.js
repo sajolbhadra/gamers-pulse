@@ -1,21 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { Col, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import useReviews from '../../hooks/useReviews';
 import battlefiend from '../../image/2042.jpg'
 import Review from '../Review/Review';
 import './Home.css'
 
 const Home = () => {
-
-    const [review, setReview] = useState([]);
-    useEffect(() => {
-        fetch('userReview.json')
-            .then(res => res.json())
-            .then(data => setReview(data))
-    }, [])
-
-
-
+    const [review, setReview] = useReviews();
+    console.log(review.length)
     return (
         <div>
 
@@ -35,14 +28,14 @@ const Home = () => {
 
 
 
-            <div className='review-container mx-auto'>
-                {review.map(review => <Review
+            <div className='review-container  '>
+                {review.slice(3).map(review => <Review
                     key="_id"
                     review={review}
                 ></Review>)}
             </div>
             <div className='d-flex justify-content-center '>
-                <Link to="/dashboard"><button className=' mt-5 mb-5 btn btn-primary px-5 py-2'>More</button></Link>
+                <Link to="/reviews"><button className=' mt-5 mb-5 btn btn-primary px-5 py-2'>More</button></Link>
             </div>
 
 
